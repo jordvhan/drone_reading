@@ -1,0 +1,8 @@
+dronekit==2.0.0
+pymavlink>=2.4
+pyserial
+smbus2
+numpy
+# LoRa driver: choose the library that matches your radio module.
+# Options include: pySX127x (for SX127x breakouts) or vendor-specific HAT libs.
+# pySX127x may not be available on PyPI for some platforms; check your module.
